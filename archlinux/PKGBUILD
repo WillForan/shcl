@@ -1,6 +1,4 @@
-# Contributor : Antoine Carpentier
-# Contributor : Stefan Husmann <stefan-husmann@t-online.de>
-# Maintainer : Ivan Podmazov <ivanpzv[eight]@gmail.com>
+# Contributor : Will Foran
 
 pkgname=shcl
 pkgver=r732.cc8d3c8
